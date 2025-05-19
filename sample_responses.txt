@@ -1,0 +1,16 @@
+Sample Questions and Answers:
+
+Q: Can you recommend a fantasy book with good world-building?
+A: I recommend "The Way of Kings" by Brandon Sanderson. It features an incredibly detailed fantasy world with unique magic systems and deep lore.
+
+Q: What are some popular science fiction books?
+A: Some highly-rated sci-fi books in our collection include:
+- "Dune" by Frank Herbert (Classic space opera)
+- "Project Hail Mary" by Andy Weir (Hard sci-fi)
+- "The Three-Body Problem" by Liu Cixin (Mind-bending concepts)
+
+Q: Find me books about machine learning
+A: Here are some excellent ML books:
+1. "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" - Great for practical implementation
+2. "Pattern Recognition and Machine Learning" - More theoretical approach
+3. "The Hundred-Page Machine Learning Book" - Good concise overview
